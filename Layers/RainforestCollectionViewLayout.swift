@@ -89,7 +89,7 @@ enum RainforestLayoutType {
 class RainforestCollectionViewLayout: UICollectionViewLayout {
   var allLayoutAttributes = [UICollectionViewLayoutAttributes]()
   let cellDefaultHeight = 300
-  let cellWidth = Int(FrameCalculator.cardWidth)
+  let cellWidth = Int(FrameCalculator.cardWidth)/2
   let interCellVerticalSpacing = 10
   let interCellHorizontalSpacing = 10
   var contentMaxY: CGFloat = 0
@@ -119,7 +119,7 @@ class RainforestCollectionViewLayout: UICollectionViewLayout {
     if allLayoutAttributes.count == 0 {
       if let collectionView = self.collectionView {
         if collectionView.frame.size.width < CGFloat((self.cellWidth * 2) + interCellHorizontalSpacing) {
-          layoutType = .OneColumn
+          layoutType = .TwoColumn
           layoutMetrics = layoutType.metrics()
         }
       }
