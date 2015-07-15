@@ -6,23 +6,23 @@
 	<dict>
 		<key>Pods-Layers-AsyncDisplayKit.xcscheme</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>2</integer>
+			<key>isShown</key>
+			<false/>
 		</dict>
 		<key>Pods-Layers.xcscheme</key>
 		<dict>
-			<key>orderHint</key>
-			<integer>1</integer>
+			<key>isShown</key>
+			<false/>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>3D08F3AC9E184143AE5D6597</key>
+		<key>6AA0030A991E0B5CCFE5C733</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>B9922DE4CC33446B87B3D8DB</key>
+		<key>F4007AE09AE72BB124B69402</key>
 		<dict>
 			<key>primary</key>
 			<true/>

@@ -10,31 +10,31 @@
 	<string>Layers</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>522E0E11B153671DBC4FE0E1FEC916E002005B2D</key>
-		<string>https://github.com/rcach/Layers.git</string>
+		<key>CA955B3D06AB2F8AA7582EE18D0BCB966C53FC0F</key>
+		<string>https://github.com/browniz23/Layers-Finished.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Layers/Layers.xcworkspace</string>
+	<string>Layers.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>522E0E11B153671DBC4FE0E1FEC916E002005B2D</key>
-		<string>../..</string>
+		<key>CA955B3D06AB2F8AA7582EE18D0BCB966C53FC0F</key>
+		<string>..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/rcach/Layers.git</string>
+	<string>https://github.com/browniz23/Layers-Finished.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>522E0E11B153671DBC4FE0E1FEC916E002005B2D</string>
+	<string>CA955B3D06AB2F8AA7582EE18D0BCB966C53FC0F</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>522E0E11B153671DBC4FE0E1FEC916E002005B2D</string>
+			<string>CA955B3D06AB2F8AA7582EE18D0BCB966C53FC0F</string>
 			<key>IDESourceControlWCCName</key>
-			<string>Layers</string>
+			<string>Layers-Finished</string>
 		</dict>
 	</array>
 </dict>
